@@ -18,10 +18,10 @@
 ### Resutados
 
 - Setoolkit
- ![Alt text](./setoolkit.png)
+  - ![Alt text](./setoolkit.png)
 
 - Site Cloner
- ![Alt text](./sitecloner.png)
+  - ![Alt text](./sitecloner.png)
 
 - Resultados
- ![Alt text](./passwd.png)
+  - ![Alt text](./passwd.png)
